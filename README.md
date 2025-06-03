@@ -21,7 +21,8 @@ Enjoy🤗
   - Google Fonts (`Lato`)
 
  ## 📷Preview
-![Screenshot 2025-06-03 213328](https://github.com/user-attachments/assets/3264b61a-ccf4-4d2c-ba95-0a92b24a7e42)
+![image](https://github.com/user-attachments/assets/6d4f56ba-c179-48dc-ad39-1c2bd4705e7c)
+
 
 
 </details>
