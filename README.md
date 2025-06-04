@@ -23,6 +23,37 @@ Enjoy🤗
  ## 📷Preview
 ![image](https://github.com/user-attachments/assets/6d4f56ba-c179-48dc-ad39-1c2bd4705e7c)
 
+</details>
+<details>
+  <summary>2. 🖼️Gallery</summary>
+  
+ #### Notes:
+ This project is a responsive image gallery built using HTML5 and CSS3. It showcases a collection of images with clean design, styled hover effects, and flexible layout. The gallery can be used as a portfolio component, UI feature, or learning project for frontend development.
+
+## 🎯 Features
+- Clean and modern design
+
+- Responsive layout using Flexbox
+
+- Styled image cards with:
+
+- Hover scale effect and shadow
+
+- Image titles shown on hover
+
+- Uses semantic HTML for accessibility
+
+- External links to full-sized Unsplash photos
+
+## 🛠️ Technologies Used
+- HTML5
+
+- CSS3 (with Flexbox)
+
+- Google Fonts: Lato
+## 📷Preview
+###### ![Screenshot 2025-06-04 144009](https://github.com/user-attachments/assets/c4ac5d5a-776d-4a64-8080-95b9dd920856)
 
 
 </details>
+
