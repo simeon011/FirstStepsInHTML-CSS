@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Lato, sans-serif;
+}
+
+.site{
+    max-width: 900px;
+    margin: 2em auto;
+    
+}
+
+body {
+    background-color: #ccc ;
+}
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+.gallery li {
+    flex: 1 1 30%;
+    overflow: hidden;
+    display: flex;
+    border: 0.3em solid #222;
+    border-radius: 0.2em;
+    box-shadow: 0 0 1em 0 rgb( 0, 0, 0, 0.1);
+    background-color: #fff;
+    padding: 1em;
+}
+
+.gallery a {
+    display: flex;
+    flex-direction: column;
+    columns: #666;
+    text-decoration: none;
+    justify-content:center ;
+    line-height: 1;
+    position: relative;
+    padding-bottom: 1.5em
+}
+img {
+    box-shadow: 0 0 0.5em rgb(0 , 0, 0, 0.1);
+    border-radius: 0.2em;
+}
+
+span {
+    /* margin-top: auto; */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-style: italic;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+li:hover{
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+  transition: all 0.2s ease;
+}
