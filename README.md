@@ -65,7 +65,8 @@ Enjoy🤗
 - CSS3 (Flexbox + media queries)
 - Google Fonts: Lato
 ## 📷Preview
-#### ![Screenshot 2025-06-11 212225](https://github.com/user-attachments/assets/2c0a11f5-6c71-41cd-8386-fc50643196e3)
+#### ![Screenshot 2025-06-11 213125](https://github.com/user-attachments/assets/fd3878de-39b3-4bdb-b34f-70db9b792526)
+
 
     
 </details>
