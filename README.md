@@ -70,4 +70,54 @@ Enjoy🤗
 
     
 </details>
+<details>
+  <summary>4. 🎦CineHub </summary>
+  
+  #### Notes:
+  Cinehub is a responsive streaming platform UI project built with HTML5 and CSS3. It emulates the layout and visual style of modern services like Netflix. The project is frontend-only and showcases skills in layout structuring, visual hierarchy, responsive design, and media handling.
+## 🎯 Features
+- Modern, minimalist design with a strong visual focus on cinematic content
+
+- Fully responsive layout built with Flexbox
+
+- Themed content sections, including:
+
+  - Featured movie banner with background image and genre tags
+
+  - “Continue Watching” module with progress bar indicator
+
+  - Scrollable gallery of personalized top picks
+
+  - “Coming Soon” section with a built-in reminder option
+
+  - Genre-based browsing with custom icons
+
+- Prominent registration button with clear call-to-action (CTA)
+
+- Polished UI components with:
+
+  - Interactive buttons with smooth animations
+
+  - Hover effects on images and icons
+
+  - Gradient borders and visual transitions
+
+- Semantic and accessible HTML5 structure
+
+- Typography enhanced with Google Fonts (Montserrat, Inter)
+
+## 🛠️ Technologies Used
+- HTML5
+
+- CSS3 (Flexbox, background images, gradients)
+
+- Google Fonts: Montserrat, Inter
+
+## 📷Preview
+![screenshot](https://github.com/user-attachments/assets/ee2327c6-c2d9-4bfc-aabd-c15fc49b6501)
+
+  
+  
+  
+</details>
 
